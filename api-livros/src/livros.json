@@ -1,0 +1,31 @@
+[
+    {
+        "id": 1,
+        "titulo": "Admirável Mundo Novo",
+        "descricao": "Um clássico moderno, romance de Aldous Huxley",
+        "autor": "Aldous Huxley",
+        "anoPublicacao": 1932
+
+    },
+    {
+        "id": 2,
+        "titulo":"Dhammapada Atthaka: Caminho Da Lei - O Livro Das Oitavas ",
+        "descricao": "Obra budista",
+        "autor": "Dhammapada Atthaka",
+        "anoPublicacao": 2003
+    },
+    {
+        "id": 3,
+        "titulo": "Laranja Mecânica",
+        "descricao": "Imortalizado nove anos depois de seu lançamento em 1962",
+        "autor": "Anthony Burgess",
+        "anoPublicacao": 1962
+    },
+    {
+        "id": 4,
+        "titulo": "Livro dos Sith",
+        "descricao": "Manual, relatos e historia dos Sith",
+        "autor": "George lucas",
+        "anoPublicacao": 2010
+    }
+]
